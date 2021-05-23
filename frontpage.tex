@@ -1,0 +1,89 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Simple Sectioned Essay Template
+% LaTeX Template
+%
+% This template has been downloaded from:
+% http://www.latextemplates.com
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[12pt]{article} % Default font size is 12pt, it can be changed here
+
+\usepackage{geometry} % Required to change the page size to A4
+\geometry{a4paper} % Set the page size to be A4 as opposed to the default US Letter
+
+\usepackage{graphicx} % Required for including pictures
+
+\usepackage{float} % Allows putting an [H] in \begin{figure} to specify the exact location of the figure
+\usepackage{wrapfig} % Allows in-line images such as the example fish picture
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+\linespread{1.2} % Line spacing
+
+%\setlength\parindent{0pt} % Uncomment to remove all indentation from paragraphs
+
+\graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
+
+\usepackage{kotex}
+\usepackage{hyperref}
+\usepackage[most]{tcolorbox}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for the horizontal lines, change thickness here
+
+\center % Center everything on the page
+
+\textsc{\LARGE대한두통학회}\\[1.5cm] % Name of your university/college
+%\textsc{\Large Major Heading}\\[0.5cm] % Major heading such as course name
+%\textsc{\large Minor Heading}\\[0.5cm] % Minor heading such as course title
+
+\HRule \\[0.4cm]
+{ \huge \bfseries 삽화편두통 예방치료약물 진료지침}\\[0.4cm] % Title of your document
+\HRule \\[1.5cm]
+
+%%\begin{minipage}{0.4\textwidth}
+%\begin{center}
+%%\begin{flushleft} \large
+%\emph{위원장:} \\
+%정재면\\[1cm]% Supervisor's Name
+%\emph{위원:}\\
+%김병수\\서종근\\손종희\\송태진\\이미지\\정필욱\\최윤주\\박광열% Your name
+%%\end{flushleft}
+%\end{center}
+%%\end{minipage}
+%~
+%\begin{minipage}{0.4\textwidth}
+%\begin{flushright} \large
+%%\emph{위원장:} \\
+%%정재면% Supervisor's Name
+%\end{flushright}
+%\end{minipage}\\[4cm]
+\includegraphics[]{static/KHS.PNG}
+
+\vspace{40pt}
+
+{\LARGE 대한두통학회 진료지침위원회 \\ \vspace{20pt} \Large 2019.06.20 }\\[3cm] % Date, change the \today to a set date if you want to be precise
+
+%{\Large 2019.06.20 }\\[3cm] % Date, change the \today to a set date if you want to be precise
+
+%\includegraphics{Logo}\\[1cm] % Include a department/university logo - this will require the graphicx package
+
+\vfill % Fill the rest of the page with whitespace
+
+\end{titlepage}
+
+
+\end{document}

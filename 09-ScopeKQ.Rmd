@@ -1,0 +1,94 @@
+# 범위결정과 핵심질문
+
+## 범위결정  
+
+- Population: Adult with frequent and/or moderate-to-severe episodic migraine
+
+- Intervention: Drug 
+    - Anti-epileptic drug
+    - Beta blocker/CCB/ARB/ACE 
+    - Anti-Depressant
+    
+- Professional: 
+    - Primary care physician, Nurse, and healthcare professionals 
+    
+- Outcome: The frequency of migraine prevention drug prescription as suggested 
+
+- Healthcare setting: Primary care setting in Korea
+
+## 핵심질문 
+### 선정과정
+
+- 핵심질문 및 관련 검색어를 실무위원회에서 일차적으로 작성후 개발위원회에서 취합하여 검토 후 최종 선정하였다. 
+
+- 진료지침의 최종 권고안은 핵심질문을 기반으로 도출하였다. 
+
+- 핵심질문은 대상 환자·인구집단(P, patient population), 중재법(I, intervention), 비교 중재법(C, comparator), 중재결과(O, outcome)  내용을 구체적으로 포함하였다.
+    + 대상 환자·인구집단: 대상 환자·인구집단의 연령, 성별, 임상적 특성 및 증상, 특정 질환에 대한 이력, 이전 치료 등의 구체적 특성을 하위집단 개념으로 최대한 구분하여 기술하였다.  
+    + 중재법: 대상 중재법을 편두통 예방약물의 기전에 따라 5개의 군으로 정의하였다. 
+    + 비교 중재법: 편두통 예방약물의 효과를 판정하기 위해 위약의 효과와 비교하였다. 핵심질문에 따라 포함되지 않는 경우도 있었다. 
+    + 중재결과: 예방 치료의 목적 대상이 되는 해당 중재법의 임상적 주요 결과(두통 발작 일수의 감소, 강도의 감소) 등을 기술하였다. 
+
+- 검색어
+    + 핵심질문의 PICO에 해당하는 영문 검색어를 정리하였다. 
+    + 실무위원회에서 선정된 핵심질문 및 검색어는 아래와 같은 서식을 활용하여 정리하였으며, 관련 진료지침을 검색하기 위하여 정리된 결과물을 개발위원회에 제공하였다. 
+ 
+
+### 최종 선정된 핵심질문
+
+1. Episodic migraine환자에서 예방치료를 고려해야 하는 요인들(두통빈도, 두 통강도, 환자의 선호도, ADL에 대한 영향 등)은 무엇인가?
+
+2. 예방치료를 진행중인 episodic migraine환자에서 치료의 중단은 어떻게 결 정해야 하는가?
+
+3. Episodic migraine환자에서 예방치료로 베타차단제(beta blocker: propranolol 등)를 사용하는 것이 타약제, 위약 또는 치료하지 않는 것에 비해 두통의 완화에 효과적인가?
+
+4. Episodic migraine환자에서 예방치료로 칼슘채널차단제(calcium channel blocker: flunarizine 등)를 사용하는 것이 타약제, 위약 또는 치료하지 않는 것에 비해 두통의 완화에 효과적인가?
+
+5. Episodic migraine환자에서 예방치료로 안지오텐신전환효소억제제(angiotensin converting enzyme inhibitor)나 안지오텐신수용체차단제(angiotensin receptor blocker: candesartan 등)를 사용하는 것이 타약제, 위약 또는 치료 하지 않는 것에 비해 두통의 완화에 효과적인가?
+
+6. Episodic migraine환자에서 예방치료로 항우울제(anti-depressant: amitryptiline 등)를 사용하는 것이 타약제, 위약 또는 치료하지 않는 것에 비해 두통의 완화에 효과적인가?
+
+7. Episodic migraine환자에서 예방치료로 항경련제(anti-epileptic agent: divalproex sodium, sodium valproate, topiramate 등)를 사용하는 것이 타약제, 위약 또는 치료하지 않는 것에 비해 두통의 완화에 효과적인가?
+
+<!-- ## Drugs -->
+
+<!-- - Beta blocker -->
+
+<!--     - propranolol  -->
+<!--     - Metoprolol  -->
+<!--     - Timolol -->
+<!--     - Atenolol -->
+<!--     - Nadolol  -->
+<!--     - Nebivolol  -->
+<!--     - Pindolol -->
+
+
+<!-- - Calcium channel blocker -->
+
+<!--     - flunarizine  -->
+<!--     - cinnarizine  -->
+<!--     - verapamil  -->
+<!--     - nicardipine -->
+
+
+<!-- - angiotensin converting enzyme inhibitor or angiotensin receptor blocker -->
+
+<!--     - Lisinopril -->
+<!--     - candesartan -->
+
+
+<!-- - anti-depressant -->
+
+<!--     - amitryptiline  -->
+<!--     - nortriptyline  -->
+<!--     - Venlafaxine  -->
+<!--     - Fluoxetine -->
+
+
+<!-- - anti-epileptic agent -->
+
+<!--     - divalproex sodium  -->
+<!--     - sodium valproate  -->
+<!--     - topiramate -->
+<!--     - Carbamazepine -->
+<!--     - Gabapentin -->
